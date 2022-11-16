@@ -1,0 +1,19 @@
+# python
+*.pyc
+__pycache__
+.pytest_cache
+.cache
+.ipynb_checkpoints
+.mypy_cache
+.idea
+pip-wheel-metadata
+
+.git-describe
+demos/**/.env
+docs-sphinx/api/*
+docs-sphinx/_build
+pypi_access_secrets.sh
+demos/**/temp
+
+#vim
+[._]*.sw[a-p]
