@@ -222,4 +222,4 @@ plot_examples(StateSelector(RandomVariable('gamma', seed, 1, 2)*10,
 
 ### Multidimensional Anomaly Injection
 
-ITOM Health [Anomaly Types](https://docs.servicenow.com/bundle/quebec-it-operations-management/page/product/health-log-analytics-operator/reference/hla-op-anomalous-behavior-types.)
+ITOM Health [Anomaly Types](https://docs.servicenow.com/bundle/tokyo-it-operations-management/page/product/health-log-analytics-operator/reference/hla-op-anomalous-behavior-types.html)
