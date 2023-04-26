@@ -21,6 +21,20 @@ To support these roles, it prioritises
  - Accessibility
     - Clear and concise implementation, easy to extend to your usecase
 
+## Installation
+
+For general usage in projects, use only the mandatory dependencies,
+
+```sh
+pip install thanos-gen
+```
+
+For the notebook demonstrations, install the optional notebook dependencies
+
+```sh
+pip install thanos-gen -E notebook
+```
+
 ## Short Examples
 
 ### Constant and Random Variales
