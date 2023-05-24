@@ -2,7 +2,7 @@
 name = "thanos-gen"
 version = "0.1.0"
 description = "THis ANOmaly is Synthetic: A recipe based timeseries data generator"
-authors = ["lorne.schell <lorne.schell@servicenow.com>"]
+authors = ["Lorne Schell <orange.toaster@gmail.com>"]
 license = "Apache-2.0"
 packages = [
     {include = "thanos"}
